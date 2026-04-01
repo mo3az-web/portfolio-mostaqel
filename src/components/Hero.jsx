@@ -46,7 +46,7 @@ const Hero = () => {
             variants={itemVariants}
             className="text-5xl md:text-7xl font-black text-slate-900 dark:text-white mb-6 leading-[1.2]"
           >
-            أهلاً، أنا <span className="text-transparent bg-clip-text bg-gradient-to-l from-blue-600 to-cyan-400">معاذ</span>
+            أهلاً، أنا <span>معاذ</span>
           </motion.h1>
 
           <motion.h2
